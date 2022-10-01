@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TereGranero
-- 👀 I’m interested in developing web applications
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing web applications and Big Data
+- 🌱 I’m currently learning Javascript, PHP, Phyton, Laravel
+- 💞️ I’m looking to collaborate on Big Data projects
 - 📫 How to reach me teregraneroruiz@gmail.com
 
 <!---
