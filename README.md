@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TereGranero
-- 👀 I’m interested in developing web applications and Big Data
-- 🌱 I’m currently learning Javascript, PHP, Phyton, Laravel
+- 👀 I’m interested in Data Science
 - 💞️ I’m looking to collaborate on Big Data projects
 - 📫 How to reach me teregraneroruiz@gmail.com
 
