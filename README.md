@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TereGranero
-- 👀 I’m interested in Data Science
-- 💞️ I’m looking to collaborate on Big Data projects
+- 👀 I’m interested in Data Science and IA
+- 💞️ I’m looking to collaborate on IA projects
 - 📫 How to reach me teregraneroruiz@gmail.com
 
 <!---
