@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TereGranero
-- 👀 I’m interested in Data Science and IA
+- 👀 I’m interested in Data Science and IA engineering
 - 💞️ I’m looking to collaborate on IA projects
 - 📫 How to reach me teregraneroruiz@gmail.com
 
